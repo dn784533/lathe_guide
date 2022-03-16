@@ -1,7 +1,7 @@
 # lathe_guide
 Guide to constructing the frame and carriage assembly of a vinyl record lathe. 
 
-This repository includes all the FreeCAD files required, in three folders:
+This repository includes all the FreeCAD files required, in three folders under Construction:
 - Common - this has all the files for the general assembly.
 - TEAX19C01 - this has the files required for construction of the cutter head using the TEAX19C01 'coin exciter' drivers.
 - OffTheShelfParts - these files should not be 3D printed. They are included purely to illustrate what the final construction should look like. in FreeCAD, load the file \TEAX19C01\Assembly.FCStd.
